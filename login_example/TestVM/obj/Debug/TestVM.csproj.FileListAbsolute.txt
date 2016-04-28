@@ -1,0 +1,12 @@
+c:\users\gfli\documents\visual studio 2013\Projects\TestVM\TestVM\bin\Debug\TestVM.exe.config
+c:\users\gfli\documents\visual studio 2013\Projects\TestVM\TestVM\bin\Debug\TestVM.exe
+c:\users\gfli\documents\visual studio 2013\Projects\TestVM\TestVM\bin\Debug\TestVM.pdb
+c:\users\gfli\documents\visual studio 2013\Projects\TestVM\TestVM\bin\Debug\microsoft.web.services3.dll
+c:\users\gfli\documents\visual studio 2013\Projects\TestVM\TestVM\bin\Debug\Vim25Service.dll
+c:\users\gfli\documents\visual studio 2013\Projects\TestVM\TestVM\obj\Debug\TestVM.csprojResolveAssemblyReference.cache
+c:\users\gfli\documents\visual studio 2013\Projects\TestVM\TestVM\obj\Debug\TestVM.exe
+c:\users\gfli\documents\visual studio 2013\Projects\TestVM\TestVM\obj\Debug\TestVM.pdb
+c:\users\gfli\documents\visual studio 2013\Projects\TestVM\TestVM\bin\Debug\Vim25Service.XmlSerializers.dll
+J:\TestVM\TestVM\TestVM\bin\Debug\TestVM.exe.config
+J:\TestVM\TestVM\TestVM\obj\Debug\TestVM.exe
+J:\TestVM\TestVM\TestVM\obj\Debug\TestVM.pdb
